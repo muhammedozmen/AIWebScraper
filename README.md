@@ -12,7 +12,6 @@ This repository contains a Streamlit application that scrapes websites to extrac
 ### Prerequisites
 
 - Python 3.7 or higher
-- Cloudinary account
 
 ### Setup
 
