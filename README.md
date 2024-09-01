@@ -36,6 +36,19 @@ This repository contains a Streamlit application that scrapes websites to extrac
    pip install -r requirements.txt
    ```
 
+4. Download Ollama:
+
+   ```
+   https://ollama.com/download
+   ```
+
+5. Run Ollama and llama3:
+
+   Open the command prompt and run:
+   ```
+   ollama run llama3
+   ```
+
 6. Run the application:
 
    ```
